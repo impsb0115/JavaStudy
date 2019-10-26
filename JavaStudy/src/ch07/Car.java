@@ -1,7 +1,7 @@
 package ch07;
 
 
-//Car Bus의 두 자식을 갖고있음
+//SportsCar, Bus를 자식으로 갖고있음
 public class Car {
 	int tire = 4;
 	int door = 2;

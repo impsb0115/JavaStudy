@@ -9,8 +9,8 @@ public class InheritanceExam1 {
 	
 	
 	public static void main(String[] args) {
-		SportsCar sc = new SportsCar();
-		Bus bs= new Bus();
+		SportsCar sc = new SportsCar();//클래스 불러오기
+		Bus bs= new Bus();//클래스 불러오기
 		move(bs);
 		
 		Car[] cars = {sc,bs};
